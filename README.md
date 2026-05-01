@@ -1,4 +1,4 @@
-# The Soul of Space | Interface Architecture Concept
+  The Soul of Space | Interface Architecture Concept
 ### IED Madrid Scholarship Submission 2026
 
 This repository serves as the official digital portfolio for my application to the **IED Madrid 2026 Total Design Scholarship**.
